@@ -1,6 +1,6 @@
 ReadMe file for Arduino DS1302RTC Library
 
-Timur Maksimov 2014
+Based on ReadMe Timur Maksimov 2014
 Based on ReadMe by Jack Christensen Mar 2013
 Based on page by arduino.cc user "Krodal" March 2013
 
